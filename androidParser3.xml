@@ -1,4 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-
+  <string name11="TOKEN_KEY" translatable="TOKEN_TRANSLATABLE">TOKEN_VALUE</string>
 </resources>
