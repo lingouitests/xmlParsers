@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+    <parent>
+       <key trans="TOKEN_TRANSLATABLE">TOKEN_KEY</key>
+       <value>TOKEN_VALUE</value>
+    </parent>        
+</root>
