@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root>
+    <parent>
+        <data name="TOKEN_KEY" isTranslatable="TOKEN_TRANSLATABLE"/>
+        <value>TOKEN_VALUE</value>
+    </parent>
+</root>
