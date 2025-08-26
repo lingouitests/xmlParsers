@@ -1,4 +1,4 @@
 <?xml version='1.0' encoding='utf-8'?>
 <stylesheet>
-   <variable name="TOKEN_KEY">TOKEN_VALUE></variable>
+   <variable name="TOKEN_KEY" translatable="TOKEN_TRANSLATABLE">TOKEN_VALUE></variable>
 </stylesheet>
